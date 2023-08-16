@@ -83,4 +83,4 @@
 ## Support
 
 <a href="https://botallen.com/#donate" target="_blank" >https://botallen.com/#donate</a>
-# get
+# get love
