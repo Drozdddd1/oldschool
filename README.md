@@ -60,7 +60,7 @@
 </span>
 </p>
 
-## Installvnb
+## Installvnbvvc
 
 <img align="right" src="media/install.gif" height=250>
 
